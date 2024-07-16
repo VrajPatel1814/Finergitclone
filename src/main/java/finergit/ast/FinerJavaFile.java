@@ -42,7 +42,7 @@ public class FinerJavaFile extends FinerJavaModule {
    * @return
    */
   @Override
-  public String getBaseName() {
+  public String Namechanged() {
     return this.name;
   }
 }
