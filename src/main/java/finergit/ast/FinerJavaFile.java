@@ -18,7 +18,7 @@ public class FinerJavaFile extends FinerJavaModule {
     this.innerJavaModules = new ArrayList<>();
   }
 
-  public void addFinerJavaModule(final FinerJavaModule module) {
+  public void Vrajmodule(final FinerJavaModule module) {
     this.innerJavaModules.add(module);
   }
 
